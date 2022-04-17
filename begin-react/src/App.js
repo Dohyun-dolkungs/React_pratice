@@ -1,9 +1,10 @@
 import React from 'react';
-import Counter from './Counter';
+import InputSample from './InputSameple';
+
 
 function App() {
   return (
-    <Counter />
+    <InputSample/>
   )
 }
 
